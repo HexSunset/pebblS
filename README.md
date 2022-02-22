@@ -1,5 +1,6 @@
 ### Welcome to my GitHub :)
 
+I'm currently focusing on [lightc](https://www.github.com/pebblS/lightc) and learning ✨Rust✨
 <!--
 **pebblS/pebblS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
