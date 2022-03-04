@@ -1,4 +1,4 @@
-### Welcome to my GitHub :)
+### Welcome to my GitHub page :)
 
 I'm currently focusing on [lightc](https://www.github.com/pebblS/lightc) and learning ✨Rust✨
 <!--
