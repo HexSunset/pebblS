@@ -1,6 +1,6 @@
 ### Welcome to my GitHub page :)
 
-I'm currently focusing on [lightc](https://www.github.com/pebblS/lightc) and learning ✨Rust✨
+I'm currently focusing on [a task manager](https://www.github.com/pebblS/taskmaster) and learning ✨Rust✨
 <!--
 **pebblS/pebblS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
