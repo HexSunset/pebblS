@@ -1,6 +1,8 @@
 ### Welcome to my GitHub page :
 
 * 🧚‍♀️ Pronouns: She/Her
+* 🏴‍☠️ Languages: Python, Rust
+* 📀 OS: Arch Linux
 
 ---
 
