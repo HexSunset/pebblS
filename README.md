@@ -6,4 +6,4 @@
 
 ---
 
-I'm currently focusing on writing [a todo-list manager](https://www.github.com/pebblS/taskmaster) and learning ✨Rust✨
+I'm currently focusing on writing [a todo-list manager](https://www.github.com/pebblS/taskmaster).
