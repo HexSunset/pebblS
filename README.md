@@ -1,4 +1,8 @@
-### Welcome to my GitHub page :)
+### Welcome to my GitHub page :
+
+* 🧚‍♀️ Pronouns: She/Her
+
+---
 
 I'm currently focusing on writing [a task manager](https://www.github.com/pebblS/taskmaster) and learning ✨Rust✨
 <!--
